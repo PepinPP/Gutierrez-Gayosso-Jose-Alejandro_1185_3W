@@ -1,5 +1,5 @@
 # Gutierrez-Gayosso-Jose-Alejandro_1185_3W
-Gutierrez_Gayosso Jose_Alejandro_1185_3W
+Gutierrez_Gayosso_Jose_Alejandro_1185_3W
 
 
 1.- Capturar tu nombre dándole valor a las variables que correspondan por separado 
