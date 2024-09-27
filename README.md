@@ -83,6 +83,56 @@ b y la altura h.
 7.-Solicitar al usuario un número natural y verificar que el número
 ingresado se encuentre dentro de la primera docena de números naturales,
 es decir entre el 1 y el 12.
+![image](https://github.com/user-attachments/assets/69f3e329-a2bc-4565-ad7e-a5b3c2452e77)
+![image](https://github.com/user-attachments/assets/fd8d9e0c-6bc0-44ac-b2c6-e7d0ffd54222)
+
+
+
+
+
+
+
+
+
+
+8.- Ingresar un número natural por teclado. Se desea saber y mostrar
+si es par o impar.
+![image](https://github.com/user-attachments/assets/325f28f5-c5a1-4ea9-a1da-79223c3b5380)
+![image](https://github.com/user-attachments/assets/6901cf48-b2e9-40f5-a679-e940fd3f66f8)
+
+
+
+
+
+
+
+
+
+
+9.- Ingresar un número entero para saber si es divisible por 7 y es
+mayor a 40.
+![image](https://github.com/user-attachments/assets/16149bb5-fffb-4c21-9d19-235c7539d034)
+![image](https://github.com/user-attachments/assets/e181703c-135c-4afd-93b6-f953abe7d186)
+
+
+
+
+
+
+
+
+
+
+10.- El factorial de un número entero se denota de la siguiente manera
+«n!» y su resultado es n!=n*(n-1)*(n-2)*…*1. Por ejemplo: 5!=5*4*3*2*1
+siendo el resultado 120. Se pide desarrollar un programa que lee un valor N
+y determine su factorial.
+![image](https://github.com/user-attachments/assets/fd9e7872-368e-4d5a-a8d6-fcf1979eb0ed)
+![image](https://github.com/user-attachments/assets/7fab0439-403e-4a15-9e46-cb4179a34a78)
+
+
+
+
 
 
 
