@@ -64,3 +64,16 @@ menor y escríbalo. Realizar un algoritmo que sume dos números y desplegarlo
 
 
 
+
+
+ 6.-Hallar el perímetro y el área de un rectángulo ingresando la base
+b y la altura h.
+
+
+
+
+
+
+
+
+
