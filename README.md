@@ -68,9 +68,21 @@ menor y escríbalo. Realizar un algoritmo que sume dos números y desplegarlo
 
  6.-Hallar el perímetro y el área de un rectángulo ingresando la base
 b y la altura h.
+![image](https://github.com/user-attachments/assets/88845917-1dcb-4136-b50a-878fa7d4bc9a)
+![image](https://github.com/user-attachments/assets/ba22ed8e-e6b0-4512-a2ca-2946e0883422)
 
 
 
+
+
+
+
+
+
+
+7.-Solicitar al usuario un número natural y verificar que el número
+ingresado se encuentre dentro de la primera docena de números naturales,
+es decir entre el 1 y el 12.
 
 
 
